@@ -1,1 +1,1 @@
-const config = { env: 'base' };
+const config = { env: 'production' }; 
